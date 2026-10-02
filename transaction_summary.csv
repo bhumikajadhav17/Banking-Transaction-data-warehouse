@@ -1,0 +1,4 @@
+transaction_type,total_transactions,total_amount
+Deposit,3,105000
+Transfer,2,27000
+Withdrawal,3,20000
